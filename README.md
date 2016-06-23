@@ -1,2 +1,2 @@
-# githubteste
-Criação de repositório vazio, apenas para teste
+﻿# githubteste
+Criação de repositório vazio, apenas para teste..
